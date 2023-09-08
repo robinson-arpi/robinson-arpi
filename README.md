@@ -25,7 +25,7 @@
 <div align="center">
     <img   
          width="100vw" 
-         src="https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif" />
+         src="https://user-images.githubusercontent.com/128093285/266722309-901daa36-a94c-4269-a195-88604c4454d0.gif" />
 </div>
 
 <!-- Technical Skills -->
